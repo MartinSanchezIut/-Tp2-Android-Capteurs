@@ -5,6 +5,7 @@
 Ce TP a pour but de se familiariser avec les capteurs d'un téléphone android.
 Il a été testé sur mon téléphone personnel: écran 1080*1920.
 Aucun schéma UML n'est fourni car la modélisation est triviale.
+Lien du dépot: https://github.com/MartinSanchezIut/-Tp2-Android-Capteurs
 
 #### Exo 1:
 Ce premier exo vous affiche dans une scrollview l'ensemble des capteurs disponibles sur votre téléphone.
